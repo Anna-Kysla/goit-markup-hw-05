@@ -566,7 +566,6 @@ img {
   color: #2e2f42;
   max-width: 360px;
   margin-bottom: 16px;
-  padding-top: 48px;
 }
 .modal-input {
   width: 100%;
@@ -652,7 +651,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
   align-items: center;
 }
 .modal-area {
@@ -756,6 +754,7 @@ img {
 
 .pp-content {
   color: #4d5ae5;
+  text-decoration: underline;
 }
 .footer-email::placeholder {
   color: #ffffff;
